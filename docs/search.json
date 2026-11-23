@@ -1,38 +1,31 @@
 [
   {
-    "objectID": "armandonline.html",
-    "href": "armandonline.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Armando Negrete",
     "section": "",
-    "text": "Es profesor en la Facultad de Ciencias Políticas y Sociales de la UNAM y Técnico Académico en el Instituto de Investigaciones Económicas, en el área de Economía Política del Desarrollo Su investigación se centra en […]"
+    "text": "Es Técnico Académico en el Instituto de Investigaciones Económicas, en el área de Economía Política del Desarrollo y Profesor en la Facultad de Ciencias Políticas y Sociales de la UNAM, Su investigación se centra en […]"
   },
   {
-    "objectID": "armandonline.html#biografía",
-    "href": "armandonline.html#biografía",
+    "objectID": "index.html#biografía",
+    "href": "index.html#biografía",
     "title": "Armando Negrete",
     "section": "",
-    "text": "Es profesor en la Facultad de Ciencias Políticas y Sociales de la UNAM y Técnico Académico en el Instituto de Investigaciones Económicas, en el área de Economía Política del Desarrollo Su investigación se centra en […]"
+    "text": "Es Técnico Académico en el Instituto de Investigaciones Económicas, en el área de Economía Política del Desarrollo y Profesor en la Facultad de Ciencias Políticas y Sociales de la UNAM, Su investigación se centra en […]"
   },
   {
-    "objectID": "armandonline.html#educación",
-    "href": "armandonline.html#educación",
+    "objectID": "index.html#educación",
+    "href": "index.html#educación",
     "title": "Armando Negrete",
     "section": "Educación",
     "text": "Educación\n\nPh.D. en Estudios Latinoamericanos | Universidad Nacional Autónoma de México (2026).\nM.Sc. en Estudios Latinoamericanos | Universidad Nacional Autónoma de México (2015).\nB.Sc. en Economía | Universidad Nacional Autónoma de México (2010)."
   },
   {
-    "objectID": "charlas.html",
-    "href": "charlas.html",
-    "title": "Charlas",
+    "objectID": "miscelanea.html",
+    "href": "miscelanea.html",
+    "title": "Miscelanea",
     "section": "",
-    "text": "“Lorem ipsum dolor sit amet, consectetur”\nInternational Conference on R and Data Science (R-Con 2025) — Madrid, España (Mayo 2025).\n“Sed do eiusmod tempor incididunt ut labore”\nCongreso Latinoamericano de Bioestadística — Ciudad de México, México (Marzo 2025).\n“Ut enim ad minim veniam, quis nostrud”\nSimposio Internacional de Genómica Computacional — Buenos Aires, Argentina (Noviembre 2024).\n“Duis aute irure dolor in reprehenderit”\nWorkshop de Inferencia Bayesiana Aplicada — Santiago, Chile (Agosto 2024).\n“Excepteur sint occaecat cupidatat non proident”\nEncuentro Nacional de Usuarios de R — Bogotá, Colombia (Junio 2024).\n“Nemo enim ipsam voluptatem quia voluptas”\nSeminario de Investigación Universitaria — Lima, Perú (Febrero 2024).\n“Neque porro quisquam est, qui dolorem ipsum”\nConference on Complex Data Analysis — Sao Paulo, Brasil (Octubre 2023).\n“Quis autem vel eum iure reprehenderit”\nTaller de Modelos Mixtos Avanzados — Montevideo, Uruguay (Julio 2023).\n“At vero eos et accusamus et iusto”\nSymposium on Open Science & R Packages — Valencia, España (Abril 2023).\n“Nam libero tempore, cum soluta nobis”\nColoquio de Matemáticas Aplicadas — CDMX, México (Noviembre 2022)."
-  },
-  {
-    "objectID": "proyectos.html",
-    "href": "proyectos.html",
-    "title": "Proyectos académicos",
-    "section": "",
-    "text": "“PAPIME 2026:”. Visualizador de interactivo de estadísticos para el análisis de la pobreza. ” Abrir”\n“Lorem ipsum dolor sit amet, consectetur”. International Conference on R and Data Science (R-Con 2025) — Madrid, España (Mayo 2025)."
+    "text": "Boletin: CLACSO Nuestra América Siglo XXI\n\n“Lorem ipsum dolor sit amet, consectetur”\nInternational Conference on R and Data Science (R-Con 2025) — Madrid, España (Mayo 2025).\n“Sed do eiusmod tempor incididunt ut labore”\nCongreso Latinoamericano de Bioestadística — Ciudad de México, México (Marzo 2025).\n“Ut enim ad minim veniam, quis nostrud”\nSimposio Internacional de Genómica Computacional — Buenos Aires, Argentina (Noviembre 2024).\n\nOTROS\n\n“Lorem ipsum dolor sit amet, consectetur”\nInternational Conference on R and Data Science (R-Con 2025) — Madrid, España (Mayo 2025).\n“Sed do eiusmod tempor incididunt ut labore”\nCongreso Latinoamericano de Bioestadística — Ciudad de México, México (Marzo 2025).\n“Ut enim ad minim veniam, quis nostrud”\nSimposio Internacional de Genómica Computacional — Buenos Aires, Argentina (Noviembre 2024)."
   },
   {
     "objectID": "publicaciones.html",
@@ -42,10 +35,17 @@
     "text": "Capítulos\n\nNegrete, A., & Gómez, A. (2025). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Journal of Applied Statistics, 42(3), 115-130.\nNegrete, A., Silva, M., & Pérez, C. (2025). Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Biometrics & Data Science, 18(1), 45-59.\nMartínez, K., & Negrete, A. (2024). Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Annals of Genomics, 30(2), 201-218.\nNegrete, A. (2024). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore. R Journal of Statistical Software, 55(4), 88-102.\nLópez, F., Negrete, A., & Torres, R. (2023). Excepteur sint occaecat cupidatat non proident, sunt in culpa. BMC Bioinformatics, 24(1), 312-325.\n\nArtículos\n\nNegrete, A., & Fernández, H. (2023). Qui officia deserunt mollit anim id est laborum. Computational Biology Letters, 12(2), 77-89.\nSánchez, D., & Negrete, A. (2022). At vero eos et accusamus et iusto odio dignissimos ducimus. European Journal of Epidemiology, 37(5), 410-425.\nNegrete, A., & Vargas, L. (2022). Qui blanditlis praesentium voluptatum deleniti atque corrupti. Mathematical Biosciences, 15(3), 150-165.\nRamírez, P., Negrete, A., & Morales, J. (2021). Quos dolores et quas molestias excepturi sint occaecati. Statistics in Medicine, 40(8), 980-995.\nNegrete, A. (2021). Cupiditate non provident, similique sunt in culpa qui officia. Journal of Statistical Computation, 29(1), 12-28."
   },
   {
-    "objectID": "miscelanea.html",
-    "href": "miscelanea.html",
-    "title": "Miscelanea",
+    "objectID": "charlas.html",
+    "href": "charlas.html",
+    "title": "Charlas",
     "section": "",
-    "text": "CLACSO\n\n“Lorem ipsum dolor sit amet, consectetur”\nInternational Conference on R and Data Science (R-Con 2025) — Madrid, España (Mayo 2025).\n“Sed do eiusmod tempor incididunt ut labore”\nCongreso Latinoamericano de Bioestadística — Ciudad de México, México (Marzo 2025).\n“Ut enim ad minim veniam, quis nostrud”\nSimposio Internacional de Genómica Computacional — Buenos Aires, Argentina (Noviembre 2024).\n\nOTROS\n\n“Lorem ipsum dolor sit amet, consectetur”\nInternational Conference on R and Data Science (R-Con 2025) — Madrid, España (Mayo 2025).\n“Sed do eiusmod tempor incididunt ut labore”\nCongreso Latinoamericano de Bioestadística — Ciudad de México, México (Marzo 2025).\n“Ut enim ad minim veniam, quis nostrud”\nSimposio Internacional de Genómica Computacional — Buenos Aires, Argentina (Noviembre 2024)."
+    "text": "“Lorem ipsum dolor sit amet, consectetur”\nInternational Conference on R and Data Science (R-Con 2025) — Madrid, España (Mayo 2025).\n“Sed do eiusmod tempor incididunt ut labore”\nCongreso Latinoamericano de Bioestadística — Ciudad de México, México (Marzo 2025).\n“Ut enim ad minim veniam, quis nostrud”\nSimposio Internacional de Genómica Computacional — Buenos Aires, Argentina (Noviembre 2024).\n“Duis aute irure dolor in reprehenderit”\nWorkshop de Inferencia Bayesiana Aplicada — Santiago, Chile (Agosto 2024).\nComentarista en: Mesa redonda, “La Coyuntura económica y social de Brasil ante el proceso electoral. Reflexiones”, 10 de noviembre de 2026, Instituto de Investigaciones Económicas, México. (Ver video)\n\n“Nemo enim ipsam voluptatem quia voluptas”\nSeminario de Investigación Universitaria — Lima, Perú (Febrero 2024).\n“Neque porro quisquam est, qui dolorem ipsum”\nConference on Complex Data Analysis — Sao Paulo, Brasil (Octubre 2023).\n“Quis autem vel eum iure reprehenderit”\nTaller de Modelos Mixtos Avanzados — Montevideo, Uruguay (Julio 2023).\n“At vero eos et accusamus et iusto”\nSymposium on Open Science & R Packages — Valencia, España (Abril 2023).\n“Nam libero tempore, cum soluta nobis”\nColoquio de Matemáticas Aplicadas — CDMX, México (Noviembre 2022)."
+  },
+  {
+    "objectID": "proyectos.html",
+    "href": "proyectos.html",
+    "title": "Cursos y proyectos académicos",
+    "section": "",
+    "text": "CURSOS\n\nProfesor titular de Gestión de la política de desarrollo social en México, de la Licenciatura en Administración Pública, de la Facultad de Ciencias Políticas y Sociales, con clave 2725, Periodos: 2023-1; 2024-1, 2025-1, “2026-1”, “2027-1”.\nProfesor titular de Teoría Económica, de la Licenciatura en Administración Pública, de la Facultad de Ciencias Políticas y Sociales, con clave 2426, Periodos: 2022-2, 2023-2, 2024-2,“2025-2”, “2026-2”.\nProfesor titular de Estadística, con clave 0015, en la Escuela Nacional De Trabajo Social, Universidad Nacional Autónoma de México, semestre 2021-2\n\nPROYECTOS\n\n“PAPIME 2026:”. Visualizador de interactivo de estadísticos para el análisis de la pobreza. Coordinado por el Mtro. Armando Negrete, Instituto de Investigaciones Económicas, relacionado con la impartición de la materia “Gestión de la Política Social en México”, en el Centro de Estudios de Administración Pública de la Facultad de Ciencias Políticas y Sociales ” Abrir”\nParticipante en el proyecto de “Política monetaria y política macroprudencial para impulsar el crecimiento económico con estabilidad financiera y bajas emisiones de carbono en países en desarrollo” (2023 - 2026), coordinado por la Dra. Marcia Solorza de la Facultad de Economía-UNAM y el Dr. Alejandro López Bolaños coresponsable del proyecto, del Instituto de Investigaciones Económicas.\nParticipante en el proyecto de investigación PAPIIT (IN302318), “Financiarización desde abajo. Efectos del proceso de financiarización en la población migrante”, coordinado por la Dra. Melisa Pardo, con una vigencia del 1 de agosto de 2021 a julio de 2023, en el Instituto de Geografía de la Universidad Nacional Autónoma de México, México.\nParticipante en el proyecto interuniversitario “Public Policies in Development Strategies: Case Studies”, coordinado el Dr. Xavier Arrizabalo. Proyecto coordinado desde la Universidad Complutense de Madrid y en el que participa el IIEc-UNAM a través de la Unidad de Economía Política del Desarrollo, la Universidad de San Pablo, Brasil, la Universidad de Buenos Aires, Argentina y la Universidad de Barcelona, España, 2021.\nParticipante en el proyecto de investigación PAPIIT (IN302318), “La integración trunca de América Latina 1834-2017: entre el panamericanismo y el regionalismo. Una mirada desde la economía política global”, coordinado por el Dr. Oscar Ugarteche, con una vigencia del 1 de agosto de 2018 a julio de 2020, en el Instituto de Investigaciones Económicas de la Universidad Nacional Autónoma de México, México.\nInvitado en el proyecto de investigación PAPIIT (IN3040179), “Praxis espacial. Geopolítica entre clases sociales en América Latina”, coordinado por el Dr. Efraín León Hernández, con vigencia de enero 2019 a diciembre de 2021, en la Facultad de Filosofía y Letras de la Universidad Nacional Autónoma de México, México\nInvitado en el proyecto de investigación PAPIIT (IN301115), “Geopolítica y discurso crítico”, coordinado por el Dr. Efraín León Hernández, de la Facultad de Filosofía y Letras de la Universidad Nacional Autónoma de México."
   }
 ]

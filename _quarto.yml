@@ -8,7 +8,7 @@ website:
     background: primary
     search: true
     right:
-      - href: armandoline.qmd
+      - href: index.qmd
         text: "Inicio"
       - href: publicaciones.qmd
         text: "Publicaciones"

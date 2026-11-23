@@ -1,20 +1,39 @@
----
+x|---
 title: "Publicaciones"
 subtitle: "Artículos en revistas arbitradas y capítulos de libros"
 ---
 **Capítulos**
 
-1. **Negrete, A.**, & Gómez, A. (2025). *Lorem ipsum dolor sit amet, consectetur adipiscing elit*. Journal of Applied Statistics, 42(3), 115-130.
-2. **Negrete, A.**, Silva, M., & Pérez, C. (2025). *Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua*. Biometrics & Data Science, 18(1), 45-59.
-3. Martínez, K., & **Negrete, A.** (2024). *Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris*. Annals of Genomics, 30(2), 201-218.
-4. **Negrete, A.** (2024). *Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore*. R Journal of Statistical Software, 55(4), 88-102.
-5. López, F., **Negrete, A.**, & Torres, R. (2023). *Excepteur sint occaecat cupidatat non proident, sunt in culpa*. BMC Bioinformatics, 24(1), 312-325.
+10. **Autor del capitulo “La financiarización del mercado de materias primas”**, López Bolaños Alejandro y Marcia Luz Solorza (Coord.), 2024, Política monetaria en países en Desarrollo. Sectores Económico-Financieros y mecanismos de transmisión, ISBN 97886073089470
+
+9. **Autor del capítulo “Dependent Financialization of Latin America: A View from the COVID-19 Crisis”**, en Monika, et.al., (eds). COVID-19 and Economic Development in Latin America: Theoretical Debates, Financing Dilemmas and Post-Pandemic Scenarios. Taylor & Francis, (2023). ISBN 9781032409825
+
+8. **Coautor con Alejandro López Bolaños y Juan Alberto Arancibia Córdova, “Limites e desafíos da política econômica no estado plurinacional da Bolívia”**, en Everaldo de Oliveira Andrade, et.al. (2023) Inventamos ou erramos: Debates sobre a transição para outra sociedade e outra economia, Buenos Aires: CLACSO,
+
+7. **Autor del capítulo “Financiarización dependiente de América Latina: una mirada desde la crisis de la COVID-19”**, en Meireles Monika, et. al (Coord.) COVID-19 y el desarrollo económico en América Latina: debates teóricos, dilemas de financiamiento y escenarios pospandémicos, IIEc-UNAM, (2022).ISBN: 9786073064392.
+
+6. **Coautor con Alejandro López Bolaños y Juan Alberto Arancibia Córdova, “Límites y desafíos de la política económica en el Estado Plurinacional de Bolivia”**, en Arrizabalo, Xabier, et. al. (Coord.), 2021, Inventamos o erramos, Aportaciones de algunas experiencias de lucha contra la explotación capitalista, Ed. Editorial el Economista, Madrid, ISBN: 978.84-948278-9-2.
+
+5. **Coautor con Oscar Ugarteche et.al. del capítulo “Efectos económicos internacionales del COVID-19”**, en Sánchez Vargas, Armando y Nava Bolaños, Isalia (2021): Efectos económicos de la pandemia de covid-19. Instituto de Investigaciones Económicas, Universidad Nacional Autónoma de México, Ciudad de México. ISBN 978-607-30-4539-1
+Coautor con Oscar Ugarteche del capítulo “Efectos económicos de la COVID-19 en América Latina” en MIRÓ QUESADA RADA, FRANCISCO, et. al.  (2021) COVID-19: Trigo y Cizaña, Editorial: CIAC Ediciones, Lima, ISBN: 978-612-47888-4-0, 
+
+4. **Coautor con Oscar Ugarteche del capítulo “Aproximaciones desde la Geoeconomía al golpe de Estado en Bolivia”**,  Lajtman, Tamara; Romano, Silvina; Bruckmann, Mónica y Ugarteche, Oscar (2021): Bolivia y las implicaciones geopolíticas del golpe de Estado. Colección Grupos de Trabajo . Consejo Latinoamericano de Ciencias Sociales, Instituto de Investigaciones Económicas, Universidad Nacional Autónoma de México, Ciudad de México. ISBN 978-607-30-4472-1
+
+3. **Coautor con Oscar Ugarteche del capítulo “El problema de Estados Unidos y los aranceles, con el mundo:  efectos en la economía mexicana”**, en  Basave Kunhardt, Jorge (2020): Retos de la economía mexicana: presente y futuro. Tomo I. Instituto de Investigaciones Económicas, Universidad Nacional Autónoma de México, Ciudad de México. ISBN 978-607-30-4082-2
+
+2. **Autor del capítulo “El anillo verde de la dependencia”**, en Espacios de capital y territorios de resistencia: Miradas críticas desde la geografía y el vivir saludable”, coordinado por Dr. Efraín León Herrera, Ed. Universidad Nacional Autónoma de México-Universidad Andina Simón Bolívar, próxima publicación. (2019) ISBN/ISSN: 9786073040891
+
+1. **Autor del capítulo “Marx y las tendencias del capitalismo financiarizado del siglo XXI”**, en El poder de las preguntas. Ensayos desde Marx sobre el Perú y el mundo contemporáneo, Coordinado por Omar Cavero Cornejo, Editado por Universidad de Ciencias y Humanidades, Lima, 2019, ISBN: 978-612-4109-50-8
 
 
 **Artículos**
 
-6. **Negrete, A.**, & Fernández, H. (2023). *Qui officia deserunt mollit anim id est laborum*. Computational Biology Letters, 12(2), 77-89.
-7. Sánchez, D., & **Negrete, A.** (2022). *At vero eos et accusamus et iusto odio dignissimos ducimus*. European Journal of Epidemiology, 37(5), 410-425.
-8. **Negrete, A.**, & Vargas, L. (2022). *Qui blanditlis praesentium voluptatum deleniti atque corrupti*. Mathematical Biosciences, 15(3), 150-165.
-9. Ramírez, P., **Negrete, A.**, & Morales, J. (2021). *Quos dolores et quas molestias excepturi sint occaecati*. Statistics in Medicine, 40(8), 980-995.
-10. **Negrete, A.** (2021). *Cupiditate non provident, similique sunt in culpa qui officia*. Journal of Statistical Computation, 29(1), 12-28.
+5. **Autor de “Perspectivas económicas para México en el mundo pospandémico”**, en Coyuntura Económica, año 5, núm. 11, enero-abril 2023. Coordinación de análisis macroeconométrico prospectivo IIEc-UNAM, Ciudad de México, México. 
+
+4. **Autor de “El mercado financiero del agua: los nuevos esquemas de privatización”**, en La corriente, Revista Digital de Política y Cultura, Año II, Número 4, Febrero 2021, Lima Perú.
+
+3. **Autor de “Efectos y perspectivas de las políticas de mercado en América Latina”**, en Coyuntura Económica, año 1, núm. 1, septiembre-diciembre 2019. Coordinación de análisis macroeconométrico prospectivo IIEc-UNAM, Ciudad de México, México. 
+
+2. **Autor de “Huawei y la guerra económica EEUU-China”**, en Nuevas pistas de la economía mundial, América Latina en Movimiento, Marzo 2019, Año 43, No. 540, 2da época. ISSN:1390-1230.
+
+1. **Coautor con Thibaut Plassot; Travis McArthur; Benjamin Rontard;  What Governability For The Mexican Countryside?A Quantitative Focus**, presentado en la XVI Biennial Conference, ‘Practicing the commons: Self-governance, cooperation, and institutional change’ organizada por The International Association for the Study of the Commons (IASC)

@@ -3,7 +3,6 @@ title: "Miscelanea"
 subtitle: "Otras publicaciones y notas de difusión"
 ---
 
-<<<<<<< HEAD
 **Boletin: CLACSO Nuestra América Siglo XXI** 
   
 30. **Autor de “Contracción económica con inflación 2023”**, Sección de Estadísticas, en el Boletín NUESTRA AMÉRICA XXI - Desafíos y alternativas, Num.86, diciembre 2023. Consejo Latinoamericano de Ciencias Sociales (CLACSO) Grupo de trabajo de "Crisis y Economía Mundial", Argentina. ISBN 978-987-813-518-2
@@ -88,4 +87,3 @@ subtitle: "Otras publicaciones y notas de difusión"
 
 3. **"Ut enim ad minim veniam, quis nostrud"**  
   *Simposio Internacional de Genómica Computacional* — Buenos Aires, Argentina (Noviembre 2024).
->>>>>>> origin/main

@@ -2,6 +2,7 @@
 title: "Publicaciones"
 subtitle: "Artículos en revistas arbitradas y capítulos de libros"
 ---
+
 **Capítulos**
 
 10. **Autor del capitulo “La financiarización del mercado de materias primas”**, López Bolaños Alejandro y Marcia Luz Solorza (Coord.), 2024, Política monetaria en países en Desarrollo. Sectores Económico-Financieros y mecanismos de transmisión, ISBN 97886073089470

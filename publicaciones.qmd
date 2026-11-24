@@ -1,4 +1,4 @@
-x|---
+---
 title: "Publicaciones"
 subtitle: "Artículos en revistas arbitradas y capítulos de libros"
 ---

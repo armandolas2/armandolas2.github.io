@@ -15,7 +15,7 @@ website:
       - href: charlas.qmd
         text: "Charlas"
       - href: proyectos.qmd
-        text: "Proyectos"
+        text: "Cursos y proyectos"
       - href: miscelanea.qmd
         text: "Miscelanea"
 

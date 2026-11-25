@@ -13,8 +13,8 @@ title: "Cursos y proyectos académicos "
 
 **PROYECTOS**
 
-1. **Coordinador: "PAPIME 2026: "**. 
-*Visualizador de interactivo de estadísticos para el análisis de la pobreza*, Instituto de Investigaciones Económicas, Proyecto relacionado con la impartición de la materia "Gestión de la Política Social en México", en el Centro de Estudios de Administración Pública de la Facultad de Ciencias Políticas y Sociales
+1. **Coordinador: "PAPIME PE303226: "**. 
+*Visualizador de interactivo de estadísticos para el análisis de la pobreza*, Instituto de Investigaciones Económicas, Proyecto relacionado con la impartición de la materia "Gestión de la Política Social en México", en el Centro de Estudios de Administración Pública de la Facultad de Ciencias Políticas y Sociales, 2026.
 [" Abrir"](http://127.0.0.1:5326){style="color: red;" target="_blank"}
 
 2. **Participante en el proyecto de “Política monetaria y política macroprudencial para impulsar el crecimiento económico con estabilidad financiera y bajas emisiones de carbono en países en desarrollo”**  (2023 - 2026), coordinado por la Dra. Marcia Solorza de la Facultad de Economía-UNAM y el Dr. Alejandro López Bolaños coresponsable del proyecto, del Instituto de Investigaciones Económicas.

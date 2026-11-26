@@ -4,7 +4,7 @@ subtitle: "Presentaciones, seminarios y ponencias invitadas"
 ---
 
 * **Comentarista en: Mesa redonda**, "La Coyuntura económica y social de Brasil ante el proceso electoral.Reflexiones", 10 de noviembre de 2026, Instituto de Investigaciones Económicas, México.
- ([Ver video ](https://www.youtube.com/watch?v=PwVspQGJLxQ start="4858"))
+ [Ver video ](https://www.youtube.com/watch?v=PwVspQGJLxQ start="4858")
    {{< video https://www.youtube.com/watch?v=PwVspQGJLxQ start="4858">}}
    
 * **Ponente en: "Tercer Foro: Ingeniería en el desarrollo de México 2026"**, Temas: emprendimiento, micro, pequeñas y medianas empresas en la Ingeniería y posibilidades de crecimiento económico sostenible, Facultad de Ingeniería, UNAM. Febrero 2026
